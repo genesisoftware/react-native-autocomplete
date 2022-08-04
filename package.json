@@ -11,7 +11,7 @@
 
     "repository": {
       "type": "git",
-      "url": "git+https://git.codificar.com.br/react-components/react-native-autocomplete"
+      "url": "git+https://github.com/genesisoftware/react-native-autocomplete/"
     },
     
     "dependencies": {
@@ -24,11 +24,5 @@
         "react-native": ">=0.60.0"
     },
 
-    "author": "Codificar",
-
-    "bugs": {
-      "url": "https://git.codificar.com.br/react-components/react-native-autocomplete/issues"
-    },
-
-    "homepage": "https://git.codificar.com.br/react-components/react-native-autocomplete#readme"
+    "author": "Genesisoft"
   }
