@@ -1,3 +1,5 @@
+[![Node.js Package](https://github.com/genesisoftware/react-native-autocomplete/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/genesisoftware/react-native-autocomplete/actions/workflows/npm-publish.yml)
+
 # react-native-autocomplete
 Componente para busca de API Places.
 
